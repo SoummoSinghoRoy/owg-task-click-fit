@@ -1,0 +1,17 @@
+{
+  "name": "task-click-fit",
+  "version": "1.0.0",
+  "description": "On Wave Group task",
+  "main": "index.js",
+  "scripts": {
+    "server": "cd server && npm run server",
+    "client": "cd client && npm run start",
+    "start": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "keywords": [],
+  "author": "n/A",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
