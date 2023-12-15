@@ -2,7 +2,7 @@
 
 To install the applicatione on your local machine, follow these steps:
 
-1. Clone the repository from GitHub. Repo: https://github.com/SoummoSinghoRoy/movie-listing-api-service.git
+1. Clone the repository from GitHub. Repo: https://github.com/SoummoSinghoRoy/owg-task-click-fit.git
 2. Install Node.js, MySql server and workbench on your machine, if you haven't already. And define your `custom environment variable` in `.env` file inside server directory. Must Follow **`default.env`**
 3. Navigate to the project directory in your terminal.
 4. Run `npm install` to install the project dependencies.
